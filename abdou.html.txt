@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>Abdou - Social Media</title>
+<style>
+body {
+font-family: Arial;
+text-align: center;
+background: #f2f2f2;
+padding: 50px;
+}
+.box {
+max-width: 400px;
+margin: auto;
+background: white;
+padding: 30px;
+border-radius: 20px;
+}
+a {
+display: block;
+margin: 15px 0;
+padding: 15px;
+background: #222;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+<div class="box">
+<h1>Abdou</h1>
+<p>تابعني على حساباتي 👇</p>
+
+<a href="https://www.facebook.com/share/1FDPHwfjUU/" target="_blank">
+📘 Facebook
+</a>
+
+<a href="https://www.snapchat.com/add/abdou31ah" target="_blank">
+👻 Snapchat
+</a>
+
+<a href="https://www.instagram.com/abdelhadiaebdou/" target="_blank">
+📸 Instagram
+</a>
+
+</div>
+</body>
+</html>
